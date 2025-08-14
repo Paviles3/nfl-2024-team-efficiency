@@ -28,7 +28,7 @@ This type of exploratory data analysis mirrors the work sports organizations do 
 
 | Wins vs Red Zone TD %                                    | Wins vs Third Down %                                   |
 | -------------------------------------------------------- | ------------------------------------------------------ |
-| ![Wins vs Red Zone TD %](images/wins_vs_red_zone_td.png) | ![Wins vs Third Down %](images/wins_vs_thirddown.png) |
+| ![Wins vs Red Zone TD %](images/wins_vs_red_zone_td.png) | ![Wins vs Third Down %](images/wins_vs_third_down.png) |
 
 | Wins vs Turnovers                                  |
 | -------------------------------------------------- |
