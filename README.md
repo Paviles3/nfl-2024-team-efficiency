@@ -1,4 +1,4 @@
-# NFL 2024 Team Efficiency Analysis
+# 🏈 NFL 2024 Team Efficiency Analysis
 
 This project explores the relationship between team performance metrics and wins during the 2024 NFL season. Using a custom dataset of all 32 teams, I analyzed trends such as red zone efficiency, turnovers, total yards, and scoring to uncover key factors that contribute to winning football games.
 
@@ -14,8 +14,8 @@ This project explores the relationship between team performance metrics and wins
 - **Rushing yards** had a stronger correlation with wins than passing yards for top teams
 
 ## 🛠 Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Jupyter Notebook**
 - Custom-built CSV dataset using data from Pro Football Reference
 
 ## 📁 Files
@@ -31,7 +31,7 @@ This project explores the relationship between team performance metrics and wins
 - Correlation heatmap of all stats
 
 ## 📌 Next Steps
-- Build a Streamlit dashboard for interactive visualizations
+- Build a **Streamlit dashboard** for interactive visualizations
 - Expand analysis to include playoff data or player-level stats
 
 ---
